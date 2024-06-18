@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Work Management web App](https://github.com/lohiyaPriyansh07/Work-Management-Web-App)
 
-- 🌱 I’m currently learning **nextJs,Design Patterns,etc**
+- 🌱 I’m currently learning **Design Patterns,Nodejs,etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itzpathakji](https://github.com/itzpathakji)
 
