@@ -35,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hrish1749037?theme=dark&font=Markazi%20Text&ext=heatmap)
+![LeetCode Stats]()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
