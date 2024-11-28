@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [Work Management web App](https://github.com/lohiyaPriyansh07/Work-Management-Web-App)
+- 🔭 I’m currently working on [BlogSphere](https://github.com/itzpathakji/BlogSphere)
 
-- 🌱 I’m currently learning **Design Patterns,Nodejs,etc**
+- 🌱 I’m currently learning **Nextjs,Design Patterns,Nodejs,etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itzpathakji](https://github.com/itzpathakji)
 
